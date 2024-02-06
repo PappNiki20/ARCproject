@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ARCproject/static/css/main.38c97610.css",
+    "main.js": "/ARCproject/static/js/main.5268e1bf.js",
+    "static/js/787.dbf18a97.chunk.js": "/ARCproject/static/js/787.dbf18a97.chunk.js",
+    "index.html": "/ARCproject/index.html",
+    "main.38c97610.css.map": "/ARCproject/static/css/main.38c97610.css.map",
+    "main.5268e1bf.js.map": "/ARCproject/static/js/main.5268e1bf.js.map",
+    "787.dbf18a97.chunk.js.map": "/ARCproject/static/js/787.dbf18a97.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38c97610.css",
+    "static/js/main.5268e1bf.js"
+  ]
+}
